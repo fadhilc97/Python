@@ -45,6 +45,12 @@
   * Python Datetime
     * [Module Datetime](https://github.com/bellshade/Python/blob/main/Basic/python_datetime/module_datetime.py)
     * [Perhitungan Umur](https://github.com/bellshade/Python/blob/main/Basic/python_datetime/perhitungan_umur.py)
+  * Python Math
+    * [Math Eksponen Logaritma](https://github.com/bellshade/Python/blob/main/Basic/python_math/math_eksponen_logaritma.py)
+    * [Math Konstanta](https://github.com/bellshade/Python/blob/main/Basic/python_math/math_konstanta.py)
+    * [Math Konversi Sudut](https://github.com/bellshade/Python/blob/main/Basic/python_math/math_konversi_sudut.py)
+    * [Math Pembulatan](https://github.com/bellshade/Python/blob/main/Basic/python_math/math_pembulatan.py)
+    * [Math Trigonometri](https://github.com/bellshade/Python/blob/main/Basic/python_math/math_trigonometri.py)
   * Regex
     * [Regex Code](https://github.com/bellshade/Python/blob/main/Basic/regex/regex_code.py)
   * [String Python](https://github.com/bellshade/Python/blob/main/Basic/string_python.py)
@@ -165,7 +171,15 @@
   * [Aliquot Sum](https://github.com/bellshade/Python/blob/main/math/aliquot_sum.py)
   * [Bisection Math](https://github.com/bellshade/Python/blob/main/math/bisection_math.py)
   * [Geometric Sum](https://github.com/bellshade/Python/blob/main/math/geometric_sum.py)
+  * [Intergration](https://github.com/bellshade/Python/blob/main/math/intergration.py)
+  * [Jumlah Deret Geomteri](https://github.com/bellshade/Python/blob/main/math/jumlah_deret_geomteri.py)
+  * [Midpoint](https://github.com/bellshade/Python/blob/main/math/midpoint.py)
+  * [Rectangle](https://github.com/bellshade/Python/blob/main/math/rectangle.py)
   * [Relu](https://github.com/bellshade/Python/blob/main/math/relu.py)
+  * [Sigmoid](https://github.com/bellshade/Python/blob/main/math/sigmoid.py)
+  * [Simpson](https://github.com/bellshade/Python/blob/main/math/simpson.py)
+  * [Sylvester Sequence](https://github.com/bellshade/Python/blob/main/math/sylvester_sequence.py)
+  * [Trapezoid](https://github.com/bellshade/Python/blob/main/math/trapezoid.py)
   * [Triplet Sum](https://github.com/bellshade/Python/blob/main/math/triplet_sum.py)
   * [Two Pointer](https://github.com/bellshade/Python/blob/main/math/two_pointer.py)
   * [Two Sum](https://github.com/bellshade/Python/blob/main/math/two_sum.py)
@@ -184,19 +198,13 @@
   * [Ford Fulkerson](https://github.com/bellshade/Python/blob/main/networking_flow/ford_fulkerson.py)
   * [Minimum Cut](https://github.com/bellshade/Python/blob/main/networking_flow/minimum_cut.py)
 
-## Numerical Integration
-  * [Intergration](https://github.com/bellshade/Python/blob/main/numerical_integration/intergration.py)
-  * [Midpoint](https://github.com/bellshade/Python/blob/main/numerical_integration/midpoint.py)
-  * [Rectangle](https://github.com/bellshade/Python/blob/main/numerical_integration/rectangle.py)
-  * [Simpson](https://github.com/bellshade/Python/blob/main/numerical_integration/simpson.py)
-  * [Trapezoid](https://github.com/bellshade/Python/blob/main/numerical_integration/trapezoid.py)
-
 ## Other
   * [Palindrom](https://github.com/bellshade/Python/blob/main/other/Palindrom.py)
   * [Anagramcheck](https://github.com/bellshade/Python/blob/main/other/anagramCheck.py)
   * [Date To Weekday](https://github.com/bellshade/Python/blob/main/other/date_to_weekday.py)
   * [Doomsday Alg](https://github.com/bellshade/Python/blob/main/other/doomsday_alg.py)
   * [Isprime](https://github.com/bellshade/Python/blob/main/other/isPrime.py)
+  * [Power Dac](https://github.com/bellshade/Python/blob/main/other/power_dac.py)
   * [Tower Of Hanoi](https://github.com/bellshade/Python/blob/main/other/tower_of_hanoi.py)
 
 ## Physics
@@ -210,3 +218,6 @@
 
 ## Sorting
   * [Pop Sort](https://github.com/bellshade/Python/blob/main/sorting/pop_sort.py)
+
+## Web Programming
+  * [Statik Corona](https://github.com/bellshade/Python/blob/main/web_programming/statik_corona.py)
